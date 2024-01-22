@@ -1,0 +1,10 @@
+{
+    "contracts": [
+      {
+        "name": "blockcityfi-marketplace",
+        "address": "your-marketplace-contract-address",
+        "network": "testnet"
+      }
+    ]
+  }
+  
